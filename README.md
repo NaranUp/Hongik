@@ -1,2 +1,2 @@
-# Hongik
+# Hongik 2D digital
 assignment
