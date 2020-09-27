@@ -14,15 +14,21 @@ Color Space은 임의로, 즉 물리적으로 실현된 색상이 부여된 색�
 
 + RGB     
  가산혼합. 가장 기본적인 색상 모델로 색을 광원인 Red, Green, Blue의 3가지 성분을 조합으로 보는 것이다. 검은색은 R=G=B=0이다. 각 색마다 8bit으로 표현되어 (2^8)^3 = 16,777,216가지 색으로 표현되며, 모든 색은 길이가 1인 3차원 정육면체내의 한 점과 대응시킬 수 있다.
+ 
 + CMYK
  감산혼합. C=cyan M=magenta Y=yellow K=black
-+ CIE 
+ 
++ CIE lab
+
 + YUV
 UV 평면의 Color Space
- Y=밝기
- YCbCr/YPbPy 등이 이 Color Space를 사용. 
+ Y=밝기    
+인간의 눈이 밝기차에비해 색차에는 비교적 둔하다는 점을 이용해서 Y에 많은 비트(해상도)를 할당하고 U(Cb), V(Cr)에는 적게 할당하여 압축한다.
+YCbCr/YPbPy 등이 이 Color Space를 사용. 
 
 + HSL, HSV
+Hue(색상), Saturation(채도), Intensity=Value(명도)로 구성된 컬러모델.
+
 
 + 먼셀 색 체계
  20세기 초 Albert Muncell에 의해 개발. 물감, 크레용 등의 색상지정에 사용
