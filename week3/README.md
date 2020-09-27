@@ -85,9 +85,8 @@ LUT의 종류
 
 카메라 LUT의 좋은 예- ARRI Alexa의 Rec709 LUT    
 이런 종류의 LUT는 technical LUT와 creative LUT를 합친 결과물이라고 할 수 있다.  그러나 카메라 노출에 의한 광량때문에 해당 LUT를 사용할 때마다 정확하게 작동하진 않는다.
-    
-    
-    
+  
+  
 --------
 참조    
 
