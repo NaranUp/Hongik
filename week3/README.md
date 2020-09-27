@@ -11,8 +11,22 @@ Color Space은 임의로, 즉 물리적으로 실현된 색상이 부여된 색�
 주어진 색 공간의 3차원 표현을 만들기 위해 표현 X축을 마젠타 색의 양, Y축을 청록의 양, Z축을 황색의 양으로 설정하면 . 이 3D 공간은 세 가지 색소를 결합함으로써 생성될 수 있는 모든 가능한 색상에 대한 고유한 위치를 제공한다.
 많은 Color Space가 이런 식으로 3차원 값으로 표현될 수 있지만 어떤 것은 더 많거나 적은 면적을 가지고, 팬톤같은 것은 이런 식으로 표현될 수 없다.
 
-## 인간의 색 시야가 모델링되는 방식에 따른 Color Space
 
-## 가산,감산 컬러 모델
--RGB
++ RGB     
  가산혼합. 가장 기본적인 색상 모델로 색을 광원인 Red, Green, Blue의 3가지 성분을 조합으로 보는 것이다. 검은색은 R=G=B=0이다. 각 색마다 8bit으로 표현되어 (2^8)^3 = 16,777,216가지 색으로 표현되며, 모든 색은 길이가 1인 3차원 정육면체내의 한 점과 대응시킬 수 있다.
+-CMYK
+ 감산혼합. C=cyan M=magenta Y=yellow K=black
++CIE 
++YUV
+UV 평면의 Color Space
+ Y=밝기
+ YCbCr/YPbPy 등이 이 Color Space를 사용. 
+
+# 원통형 좌표 컬러 모델
++HSL, HSV
++먼셀 색 체계
+ 20세기 초 Albert Muncell에 의해 개발. 물감, 크레용 등의 색상지정에 사용
+ https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMunsell_1943_color_solid_cylindrical_coordinates.png
+
++NCS
+ 유럽에서 널리 사용된다. 노랑,빨강,초록,파랑을 한 평면에 강제로 넣기때문에 lightness dimention이 인식된 lightness가 다르다
