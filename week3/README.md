@@ -22,8 +22,8 @@ UV 평면의 Color Space
  Y=밝기
  YCbCr/YPbPy 등이 이 Color Space를 사용. 
 
-### 원통형 좌표 컬러 모델
 +HSL, HSV
+
 +먼셀 색 체계
  20세기 초 Albert Muncell에 의해 개발. 물감, 크레용 등의 색상지정에 사용
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png/510px-Munsell_1943_color_solid_cylindrical_coordinates.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png/510px-Munsell_1943_color_solid_cylindrical_coordinates.png)
