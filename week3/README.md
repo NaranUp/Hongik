@@ -61,6 +61,8 @@ ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 �
 # Gamma
 감마는 디스플레이에 입력되는 신호의 밝기(Gray Level)와 화면상에 나타나는 영상의 휘도 간 상관 관계를 결정하는 수치이다. 감마값에 따라 같은 화면이라도 표현되는 밝기 톤의 차이가 느껴질 수 있다. 감마값이 1인 경우는 입력과 출력의 밝기가 같지만, 1보다 크면 중·저계조 영역에서 화면이 좀 더 어둡게 표현이 되고, 반대로 1보다 작으면 밝게 표현이 된다.
     
+![https://2.bp.blogspot.com/-uhV7ylirKL8/Wgf9Ta5bJzI/AAAAAAAAB3g/IvU_KiqvtSs96jOA81liHWgvAq5Kb-57gCK4BGAYYCw/s1600/image002-736561.png)](https://2.bp.blogspot.com/-uhV7ylirKL8/Wgf9Ta5bJzI/AAAAAAAAB3g/IvU_KiqvtSs96jOA81liHWgvAq5Kb-57gCK4BGAYYCw/s1600/image002-736561.png)
+
 # LUT
 Look-Up Table(LUT)란 비디오에 적용하여 룩을 변경할 수 있는 고정된 숫자 값의 테이블이다.    
 간단히 말하자면 색상hue, 채도saturation, 조도brightness를 "수학적으로 정확하게" 조정하여 촬영된 원본 이미지의 색상 값을 새로운 값으로 만들어주는 방법이다.    이미지의 대비 또는 색상을 변경하거나 둘 다 변경할 수 있다.    
