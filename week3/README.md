@@ -59,7 +59,7 @@ Hue(색상), Saturation(채도), Intensity=Value(명도)로 구성된 컬러모�
 ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 모든 카메라의 다이내믹 레인지와 컬러 영역을 커버할 수 있다. 넓은 color gamut가 특징이자 장점.
 
 # Gamma
-
+감마는 디스플레이에 입력되는 신호의 밝기(Gray Level)와 화면상에 나타나는 영상의 휘도 간 상관 관계를 결정하는 수치이다. 감마값에 따라 같은 화면이라도 표현되는 밝기 톤의 차이가 느껴질 수 있다. 감마값이 1인 경우는 입력과 출력의 밝기가 같지만, 1보다 크면 중·저계조 영역에서 화면이 좀 더 어둡게 표현이 되고, 반대로 1보다 작으면 밝게 표현이 된다.
 
 # LUT
 Look-Up Table(LUT)란 비디오에 적용하여 룩을 변경할 수 있는 고정된 숫자 값의 테이블이다.    
@@ -84,9 +84,14 @@ LUT의 종류
 이런 종류의 LUT는 technical LUT와 creative LUT를 합친 결과물이라고 할 수 있다.  그러나 카메라 노출에 의한 광량때문에 해당 LUT를 사용할 때마다 정확하게 작동하진 않는다.
 
 
-----------   
-참조   
+
+--------
+참조    
+
 https://en.wikipedia.org/wiki/Color_model#CMYK_color_model
 http://journal.kobeta.com/참관기-aces-시스템/
-
+https://programminggiraffe.tistory.com/2
+https://m.blog.naver.com/PostView.nhn?blogId=dwater1&logNo=220810673551&proxyReferer=https:%2F%2Fwww.google.com%2F
+https://news.samsungdisplay.com/1869
+https://mixinglight.com/portfolio/understanding-luts/
 
