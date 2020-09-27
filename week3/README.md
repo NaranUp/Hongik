@@ -107,5 +107,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=dwater1&logNo=220810673551&proxyRef
 https://news.samsungdisplay.com/1869
 https://mixinglight.com/portfolio/understanding-luts/
 http://www.tv4u.co.kr/guide/content.asp?idx=1483
-    
+https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log
+https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+
+
     
