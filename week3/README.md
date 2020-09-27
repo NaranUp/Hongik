@@ -97,4 +97,6 @@ https://programminggiraffe.tistory.com/2
 https://m.blog.naver.com/PostView.nhn?blogId=dwater1&logNo=220810673551&proxyReferer=https:%2F%2Fwww.google.com%2F
 https://news.samsungdisplay.com/1869
 https://mixinglight.com/portfolio/understanding-luts/
-
+http://www.tv4u.co.kr/guide/content.asp?idx=1483
+    
+    
