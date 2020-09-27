@@ -39,6 +39,8 @@ Hue(색상), Saturation(채도), Intensity=Value(명도)로 구성된 컬러모�
 +NCS    
  유럽에서 널리 사용된다. 노랑,빨강,초록,파랑을 한 평면에 강제로 넣기때문에 lightness dimention이 인식된 lightness가 다르다
  
+ 
+ 
  ## Color Gamut
 컴퓨터 그래픽과 사진을 포함한 색상 재현에서 gamut는 색의 완전한 부분집합이다.
 
@@ -50,6 +52,8 @@ Hue(색상), Saturation(채도), Intensity=Value(명도)로 구성된 컬러모�
 (Academy Color Encoding System).   
 영화나 TV를 제작하는 과정에서 색상 관리를 위한 업계 표준으로서, 디지털카메라 및 여러 촬영 방식의 사용이 증가함에 따라 발생하는 많은 소스마다 다른 색 공간을 통일시켜 제작, 포스트 프로덕션에서 야기될 수 있는 문제점을 보완하는 방법으로 제시된 색상 관리 및 이미지 교환 시스템이다.
 ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 모든 카메라의 다이내믹 레인지와 컬러 영역을 커버할 수 있다. 넓은 color gamut가 특징이자 장점.
+
+
 
 ----------   
 참조   
