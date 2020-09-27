@@ -65,7 +65,7 @@ ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 �
 ![https://2.bp.blogspot.com/-uhV7ylirKL8/Wgf9Ta5bJzI/AAAAAAAAB3g/IvU_KiqvtSs96jOA81liHWgvAq5Kb-57gCK4BGAYYCw/s1600/image002-736561.png)](https://2.bp.blogspot.com/-uhV7ylirKL8/Wgf9Ta5bJzI/AAAAAAAAB3g/IvU_KiqvtSs96jOA81liHWgvAq5Kb-57gCK4BGAYYCw/s1600/image002-736561.png)
 
 # LUT
-Look-Up Table(LUT)란 비디오에 적용하여 룩을 변경할 수 있는 고정된 숫자 값의 테이블이다.    
+Look-Up Table(LUT)란 비디오에 적용하여 룩을 변경할 수 있는 색상 사전 설정이다.      
 간단히 말하자면 색상hue, 채도saturation, 조도brightness를 "수학적으로 정확하게" 조정하여 촬영된 원본 이미지의 색상 값을 새로운 값으로 만들어주는 방법이다.    이미지의 대비 또는 색상을 변경하거나 둘 다 변경할 수 있다.    
 1D LUT는 입력값과 출력값이 1:1로 매칭되는 가장 간단한 테이블인 반면, 3D LUT는 훨씬 더 복잡하고 색상의 좌표값으로 표현할 수 있다.
     
