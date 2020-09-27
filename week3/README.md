@@ -59,6 +59,29 @@ ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 �
 
 
 
+
+## Lut
+Look-Up Table(LUT)    
+색상hue, 채도saturation, 조도brightness를 "수학적으로 정확하게" 조정하여 촬영된 원본 이미지의 RGB값을 새로운 RGB값으로 만들어주는 방법이다.    
+
+LUT의 종류
+
+1) Technical LUTs:
+
+테크니컬 LUT는 이미지를 하나의 색공간(color space 또는 gamut)에서 다른 색공간으로 옮기기 위해 만들어졌다.  해당 LUT의 최종 목표는 두 가지 다른 시청 환경에서 똑같은 결과물을 만들어내는 것이다. 예를 들면, (똑같은 소스를) TV에서 보는 것과 잉크젯 프린터로 출력해서 보는 결과를 똑같이 맞춰주는 것이다.    
+
+2) Creative LUTs:
+
+크리에이티브 LUT는 다른 소프트웨어에서도 늘 한결같이 LUT가 가진 하나의 룩look을 표현할 수 있게 해준다.
+
+*우리가 creative LUT를 technical LUT라고 생각하고 사용할 때 문제가 발생한다.  실제로 다양한 컬러 보정 LUT들이 이런 오해를 받고 있다.
+
+3) Camera LUTs:
+
+카메라 LUT의 좋은 예- ARRI Alexa의 Rec709 LUT    
+이런 종류의 LUT는 technical LUT와 creative LUT를 합친 결과물이라고 할 수 있다.  그러나 카메라 노출에 의한 광량때문에 해당 LUT를 사용할 때마다 정확하게 작동하진 않는다.
+
+
 ----------   
 참조   
 https://en.wikipedia.org/wiki/Color_model#CMYK_color_model
