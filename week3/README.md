@@ -30,3 +30,22 @@ UV 평면의 Color Space
 
 +NCS
  유럽에서 널리 사용된다. 노랑,빨강,초록,파랑을 한 평면에 강제로 넣기때문에 lightness dimention이 인식된 lightness가 다르다
+ 
+ ## Color Gamut
+컴퓨터 그래픽과 사진을 포함한 색상 재현에서 gamut는 색의 완전한 부분집합이다.
+
+중요한 이유: 사진을 디지털화하거나, 디지털화된 이미지를 다른 색 공간으로 변환하거나, 특정 출력 장치를 사용하여 지정된 매체에 출력하면 일반적으로 gamut가 변경되는데, 그 과정에서 원본의 색상의 일부가 손실될 수 있다.
+ 
+![https://docs.arnoldrenderer.com/download/attachments/88736289/image001.jpg?version=1&modificationDate=1560750710000&api=v2)](https://docs.arnoldrenderer.com/download/attachments/88736289/image001.jpg?version=1&modificationDate=1560750710000&api=v2)
+
+### ACES 
+(Academy Color Encoding System).   
+영화나 TV를 제작하는 과정에서 색상 관리를 위한 업계 표준으로서, 디지털카메라 및 여러 촬영 방식의 사용이 증가함에 따라 발생하는 많은 소스마다 다른 색 공간을 통일시켜 제작, 포스트 프로덕션에서 야기될 수 있는 문제점을 보완하는 방법으로 제시된 색상 관리 및 이미지 교환 시스템이다.
+ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 모든 카메라의 다이내믹 레인지와 컬러 영역을 커버할 수 있다. 넓은 color gamut
+
+----------   
+참조   
+https://en.wikipedia.org/wiki/Color_model#CMYK_color_model
+http://journal.kobeta.com/참관기-aces-시스템/
+
+
