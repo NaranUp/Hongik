@@ -23,6 +23,8 @@ Color Space은 임의로, 즉 물리적으로 실현된 색상이 부여된 색�
 + CIE lab    
 
 + YUV    
+![https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/YUV_UV_plane.svg/300px-YUV_UV_plane.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/YUV_UV_plane.svg/300px-YUV_UV_plane.svg.png)
+
 UV 평면의 Color Space
  Y=밝기    
 인간의 눈이 밝기차에비해 색차에는 비교적 둔하다는 점을 이용해서 Y에 많은 비트(해상도)를 할당하고 U(Cb), V(Cr)에는 적게 할당하여 압축한다.
