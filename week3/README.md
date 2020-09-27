@@ -23,6 +23,7 @@ Color Space은 임의로, 즉 물리적으로 실현된 색상이 부여된 색�
  감산혼합. C=cyan M=magenta Y=yellow K=black
  
 + lab    
+<img src="https://sensing.konicaminolta.asia/wp-content/uploads/2018/09/3D-LAB.jpg" width="400px" height="400px" title="px(픽셀) 크기 설정" alt="lab"></img><br/>
 lightness, a”red-green”, b”yellow-blue”    
 Lab 색 공간은 RGB나 CMYK가 표현할 수 있는 모든 색역을 포함하며, 인간이 지각할 수 없는 색깔도 포함하고 있다.
 
