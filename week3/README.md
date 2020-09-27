@@ -26,7 +26,8 @@ UV 평면의 Color Space
 +HSL, HSV
 +먼셀 색 체계
  20세기 초 Albert Muncell에 의해 개발. 물감, 크레용 등의 색상지정에 사용
- https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMunsell_1943_color_solid_cylindrical_coordinates.png
+  ![ https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMunsell_1943_color_solid_cylindrical_coordinates.png)] ( https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMunsell_1943_color_solid_cylindrical_coordinates.png)
+
 
 +NCS
  유럽에서 널리 사용된다. 노랑,빨강,초록,파랑을 한 평면에 강제로 넣기때문에 lightness dimention이 인식된 lightness가 다르다
