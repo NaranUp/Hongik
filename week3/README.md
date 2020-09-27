@@ -60,7 +60,7 @@ ACES는 16bit, 32bit, 25stop 이상의 규격을 가지고 있어 현존하는 �
 
 
 
-## Lut
+## LUT
 Look-Up Table(LUT)    
 색상hue, 채도saturation, 조도brightness를 "수학적으로 정확하게" 조정하여 촬영된 원본 이미지의 RGB값을 새로운 RGB값으로 만들어주는 방법이다.    
 
