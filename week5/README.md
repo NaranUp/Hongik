@@ -13,6 +13,8 @@
 등이 있다.     
 이외에도 많은 종류의 구도가 있으나 절대적인 규칙은 없다.
 
+<img src="https://i.pinimg.com/originals/96/4e/8e/964e8e16ada15b456e71d88aa8e6d509.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="1"></img>
+<img src="https://i.pinimg.com/originals/81/03/a6/8103a6f75fbcf372aa60fa9839dd0d4d.jpg" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="2"></img>
 
 ### Pattern
 반복적인 이미지로 군중적이고 복잡한 이미지, 패턴에 어긋나는 물체가 있을 시 해당 물체를 더 돋보이게 만드는 효과가 생긴다.
@@ -20,7 +22,7 @@
 ### Depth
 일반적으로 전경(FG), 중경(MG), 원경(BG)으로 나눈다. 니는 평면인 이미지에 깊이감, 입체감을 주기 위해 임의로 거리에 따라 나눈것이다. 이에 따라 포커싱, 공기 원근, 색, 명도, 텍스쳐 등의 표현에 차이를 둔다.    
 공간감이 잘 표현된 이미지일수록 현실감을 주므로 이들의 배치와 표현은 매우 중요하다.
-
+<img src="https://pbs.twimg.com/media/EeKpZFbUYAAilGG.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="3"></img>
 >전경: 화면 바로 앞에 위치한 가장 가까운 요소 원근감을 가장 확실하게 느낄 수 있도록 해줌.    
 
 >중경: 전경과 원경 사이에 위치. 보통 가장많은 부분을 차지하므로 전체사진의 분위기를 좌우하는 경우가 많음. 전경과 원경의 거리감을 살려주기 위한 요소이자 가장 시선이 집중되는 것 또한 중경.    
@@ -33,10 +35,15 @@
 #### 본격적인 색 작업 전 정해두면 좋은 것들
 
 ##### color pallet
-작업할때 컬러팔레트를 만들어 두면 기본적인 분위기와 컨셉을 잊지 않을 수 있다.
-
-##### color wheel, gamut
-사용되는 색상의 범위. 범위에 따라 같은 이미지라도 분위기가 확연히 다르기 때문에 작업 이전에 정해두면 작업 전체적인 분위기와 색감을 통일하기 쉽다.
-
+컬러팔레트에는 주요 색과 강조색을 표시해둔다.    
+작업할 때 컬러팔레트를 만들어 두면 기본적인 분위기와 컨셉을 잊지 않을 수 있다.    
+<img src="https://i.pinimg.com/originals/11/b5/9b/11b59b55bd6ad98295e7f4e909e53f87.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="4"></img>
+<img src="https://i.pinimg.com/originals/9e/43/8d/9e438dcdfbfb94f25d18c9a9a8037642.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="5"></img>
+    
+##### Color wheel, gamut
+사용되는 색상의 범위. 범위에 따라 같은 이미지라도 분위기가 확연히 다르기 때문에 작업 이전에 정해두면 작업 전체적인 분위기와 색감을 통일하기 쉽다.    
+<img src="http://3.bp.blogspot.com/_Eiwce13X738/S8SOyAGYsfI/AAAAAAAAIKc/H3TReGKwTLo/s1600/Gamut_Masking.png" width="90%" height="90%" title="px(픽셀) 크기 설정" alt="6"></img>
 ##### Plot and Color script
 일정 프레임마다 색을 우선적으로 입혀보는 것. 스토리 보드 등 제작초기 과정에 전체적인 색을 정해두면 장면 전환에 따른 색의 변화가 한눈에 보이며 작업도중 헤매지 않는다.
+<img src="https://i.ytimg.com/vi/9liKyUnfNO0/maxresdefault.jpg" width="90%" height="90%" title="px(픽셀) 크기 설정" alt="7"></img>
+<img src="https://i.pinimg.com/originals/95/1f/1b/951f1bfc779fcf786d7154fa7d1b3cbe.png" width="90%" height="90%" title="px(픽셀) 크기 설정" alt="7"></img>
